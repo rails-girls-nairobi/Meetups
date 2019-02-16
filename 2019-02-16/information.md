@@ -12,3 +12,7 @@
 [HowToGraphQL](https://www.howtographql.com/)
 [graphql-ruby](https://graphql-ruby.org/getting_started)
 [graphql-ruby-repo] (https://github.com/rmosolgo/graphql-ruby/tree/master/guides)
+
+
+## Code
+[book-store](https://github.com/rails-girls-nairobi/book-store)
